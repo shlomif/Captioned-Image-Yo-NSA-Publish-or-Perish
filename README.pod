@@ -1,0 +1,20 @@
+=encoding utf8
+
+=head1 Captioned Image - “Yo NSA, Publish or Perish!”
+
+=head2 About
+
+This repository contains the sources for a captioned image. To view or
+edit it type:
+
+    inkscape ./NSA-publish-or-perish.svg
+
+Image taken from L<http://commons.wikimedia.org/wiki/File:Vitoria-University-Library-food-science-journals-4489.jpg>
+under CC-by-sa/GFDL.
+
+=head2 Creator
+
+L<http://www.shlomifish.org/> - Shlomi Fish.
+
+=cut
+
